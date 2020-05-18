@@ -1,0 +1,239 @@
+[INFO]: Parsing config...
+[INFO]: Ready to go!
+[INPUT]: Enter user id/screen name (type "exit" to quit): solodushkin_si
+===================================
+[INFO]: User ID         56719936
+[INFO]: First name      Svyatoslav
+[INFO]: Last name       Solodushkin
+===================================
+[INFO]: Enabled options:
+[INFO]: [1] Get list of friends
+[INFO]: [2] Get list of albums
+[INPUT]: Type option number (use 0 to continue): 2
+=============================================================================
+[INFO]: User's photo albums list:
+[INFO]:  1.	Size: 82    id178099610     Велопутешествие, Италия-Хорватия 2013
+[INFO]:  2.	Size: 188   id150714307     Путешествие, Китай 2012
+[INFO]:  3.	Size: 58    id142092625     Путешествие, Италия 2011
+[INFO]:  4.	Size: 40    id128006562     Путешествие, Индия 2011
+[INFO]:  5.	Size: 65    id120896277     Путешествие, Греция 2010
+[INFO]:  6.	Size: 14    id117110885     Велопоход, Крым 2010
+[INFO]:  7.	Size: 29    id106376422     Путешествие, остров Бали 2010
+[INFO]:  8.	Size: 12    id99129912      Велопоход, Киргизия 2008
+[INFO]:  9.	Size: 6     id99129380      Велопоход, Турция 2005
+[INFO]: 10.	Size: 36    id99294493      Велопоход, Кавказ 2009
+=============================================================================
+[INPUT]: Type option number (use 0 to continue): 1
+============================================================================
+[INFO]: User's friends are:
+[INFO]:     1. Tamara                  Lyubimtseva             (id24885)
+[INFO]:     2. Pavel                   Egorov                  (id166515)
+[INFO]:     3. Maria                   Evseeva                 (id166567)
+[INFO]:     4. DELETED                                         (id194261)
+[INFO]:     5. Tatyana                 Nosova                  (id200278)
+[INFO]:     6. Sergey                  Sviridov                (id414250)
+[INFO]:     7. Tatyana                 Senchonok               (id483270)
+[INFO]:     8. Evgeny                  Krokhalev               (id528657)
+[INFO]:     9. Larisa                  Lukoyanova              (id539326)
+[INFO]:    10. Yulia                   Stotsenko               (id627803)
+[INFO]:    11. Mikhail                 Chernoskutov            (id677451)
+[INFO]:    12. DELETED                                         (id681701)
+[INFO]:    13. Alexey                  Zverev                  (id692250)
+[INFO]:    14. Yury                    Averbukh                (id697923)
+[INFO]:    15. Maxim                   Panachyov               (id713528)
+[INFO]:    16. Andrey                  Starovoyt               (id721629)
+[INFO]:    17. Vadim                   Shoshin                 (id763673)
+[INFO]:    18. Ekaterina               Tashirova               (id791551)
+[INFO]:    19. Evgeny                  Korenkov                (id797595)
+[INFO]:    20. Tatyana                 Pimenova                (id847306)
+[INFO]:    21. Petr                    Orlov                   (id886604)
+[INFO]:    22. Mikhail                 Rubinchik               (id1200502)
+[INFO]:    23. Yury                    Perunov                 (id1253874)
+[INFO]:    24. Valentinka              Khvostova               (id1331396)
+[INFO]:    25. Timofey                 Mironov                 (id1340104)
+[INFO]:    26. Anna                    Fortochkina             (id1355622)
+[INFO]:    27. Denis                   Mukhametyanov           (id1471450)
+[INFO]:    28. Daniil                  Silantyev               (id1563949)
+[INFO]:    29. Nastya                  Elkina                  (id1657724)
+[INFO]:    30. Evgeny                  Pavlyuk                 (id1703589)
+[INFO]:    31. Olga                    Igosheva                (id1705404)
+[INFO]:    32. Olya                    Romanovskaya            (id1794759)
+[INFO]:    33. Anna                    Markova                 (id1800094)
+[INFO]:    34. Dmitry                  Bedin                   (id2014403)
+[INFO]:    35. Vadim                   Zborovsky               (id2048393)
+[INFO]:    36. Nikolay                 Loginov                 (id2471595)
+[INFO]:    37. Natalya                 Stepanova               (id2492121)
+[INFO]:    38. Dmitry                  Stroganov               (id2528036)
+[INFO]:    39. Andrey                  Efimov                  (id2548644)
+[INFO]:    40. Vyacheslav              Istomin                 (id2599575)
+[INFO]:    41. Andrey                  Petrov                  (id2771657)
+[INFO]:    42. Natalya                 Kosheleva               (id2794519)
+[INFO]:    43. Alexander               Dyukin                  (id2840049)
+[INFO]:    44. Mikhail                 Negodaev                (id3267924)
+[INFO]:    45. Mikhail                 Smirnov                 (id3305302)
+[INFO]:    46. Tamara                  Scherbak                (id3313184)
+[INFO]:    47. Sofia                   Tekhazheva              (id3457916)
+[INFO]:    48. Ekaterina               Perova                  (id3565880)
+[INFO]:    49. Leonid                  Volkov                  (id4051048)
+[INFO]:    50. Ekaterina               Burganova               (id4323675)
+[INFO]:    51. DELETED                                         (id4355410)
+[INFO]:    52. Vasily                  Semyonov                (id4527292)
+[INFO]:    53. Andrey                  Sheka                   (id4764683)
+[INFO]:    54. Boris                   Parfenenkov             (id4826372)
+[INFO]:    55. Konstantin              Likhomanov              (id4859177)
+[INFO]:    56. Ekaterina               Negodaeva               (id4869304)
+[INFO]:    57. Roman                   Khatipov                (id4913817)
+[INFO]:    58. Alina                   Tipikina                (id5072179)
+[INFO]:    59. Evgeny                  Vakhrushev              (id5226645)
+[INFO]:    60. DELETED                                         (id5322139)
+[INFO]:    61. Alexander               Baydalin                (id5356468)
+[INFO]:    62. Dmitry                  Permikin                (id5542153)
+[INFO]:    63. Evgeny                  Prosviryakov            (id6009425)
+[INFO]:    64. Pavel                   Koltsov                 (id6015456)
+[INFO]:    65. Anna                    Ermolaeva               (id6227412)
+[INFO]:    66. Anastasia               Talipova                (id6390587)
+[INFO]:    67. Viktor                  Viktorov                (id6464967)
+[INFO]:    68. Yaroslav                Lyzlov                  (id6691587)
+[INFO]:    69. Ilya                    Arzhannikov             (id7255059)
+[INFO]:    70. Anton                   Ageykin                 (id7417878)
+[INFO]:    71. Vera                    Glushenkova             (id7521144)
+[INFO]:    72. Dmitry                  Murzin                  (id8332976)
+[INFO]:    73. Grigory                 Aslamov                 (id8340857)
+[INFO]:    74. Marina                  Kamalova                (id8821837)
+[INFO]:    75. Sergey                  Populov                 (id9239356)
+[INFO]:    76. Alexey                  Smirnov                 (id9293893)
+[INFO]:    77. Mikhail                 Telegin                 (id9361874)
+[INFO]:    78. Daniil                  Stebnev                 (id9600409)
+[INFO]:    79. Galyunik                Ignatyeva               (id9662642)
+[INFO]:    80. Sergey                  Sizy                    (id10042554)
+[INFO]:    81. Dmitry                  Kornev                  (id10071505)
+[INFO]:    82. Evdokia                 Slepukhina              (id10142605)
+[INFO]:    83. Rostislav               Kirillov                (id10258363)
+[INFO]:    84. Anton                   Plaxin                  (id10348871)
+[INFO]:    85. Ekaterina               Sazonova                (id11309980)
+[INFO]:    86. Mikhail                 Plyusnin                (id11328283)
+[INFO]:    87. DELETED                                         (id11442034)
+[INFO]:    88. Alexander               Kursanov                (id11806981)
+[INFO]:    89. DELETED                                         (id12427287)
+[INFO]:    90. Irina                   Roeva-Voychitskaya      (id12442810)
+[INFO]:    91. Oleg                    Kulaev                  (id13058526)
+[INFO]:    92. Ivan                    Evgenko                 (id14557526)
+[INFO]:    93. Sergey                  Patrushev               (id14708672)
+[INFO]:    94. Olga                    Patrusheva              (id15129439)
+[INFO]:    95. Irina                   Yumanova                (id15576177)
+[INFO]:    96. Vyacheslav              Yakimov                 (id15724742)
+[INFO]:    97. Andrey                  Plyuschenko             (id16251603)
+[INFO]:    98. Andrey                  Ryabinin                (id16340086)
+[INFO]:    99. Guzalia                 Vorobyeva               (id17104678)
+[INFO]:   100. Natalya                 Butakova                (id17433763)
+[INFO]:   101. Maxim                   Sazonov                 (id17620905)
+[INFO]:   102. Mikhail                 Starikov                (id17671355)
+[INFO]:   103. Pasha                   Ageev                   (id18519177)
+[INFO]:   104. Ekaterina               Neznakhina              (id18879901)
+[INFO]:   105. Anton                   Pavlov                  (id19193278)
+[INFO]:   106. Natashka                Neustroeva              (id20018659)
+[INFO]:   107. Danila                  Elkin                   (id20884968)
+[INFO]:   108. Yulia                   Gerasimovich            (id21658191)
+[INFO]:   109. Alexander               Osipov                  (id22004218)
+[INFO]:   110. Alexey                  Kotelnikov              (id22488367)
+[INFO]:   111. Dasha                   Svalova                 (id23478285)
+[INFO]:   112. Alexander               Krasnoselskikh          (id24156992)
+[INFO]:   113. Roman                   Torzhkov                (id24939051)
+[INFO]:   114. Leonid                  Glebov                  (id25355635)
+[INFO]:   115. Dmitry                  Pesterev                (id26499735)
+[INFO]:   116. Maria                   Prokhorova              (id28776069)
+[INFO]:   117. Egor                    Rychkov                 (id28782426)
+[INFO]:   118. Tatyana                 Yankovaya               (id29146226)
+[INFO]:   119. Alexey                  Levin                   (id30304424)
+[INFO]:   120. Anton                   Fedorov                 (id34060255)
+[INFO]:   121. Mikhail                 Yakimov                 (id34093197)
+[INFO]:   122. Anastasia               Kochurova               (id34304640)
+[INFO]:   123. Alexander               Galperin                (id34348311)
+[INFO]:   124. Valentina               Petrova                 (id35402410)
+[INFO]:   125. Galina                  Romakhina               (id37932802)
+[INFO]:   126. Oleg                    Belov                   (id38068535)
+[INFO]:   127. Marina                  Suldina                 (id38409142)
+[INFO]:   128. Olga                    Legkova                 (id40674560)
+[INFO]:   129. Tatyana                 Sharnina                (id40864494)
+[INFO]:   130. Marina                  Bezuglaya               (id41320998)
+[INFO]:   131. Kirill                  Tarasov                 (id43627597)
+[INFO]:   132. Sasha                   Okolova                 (id45154590)
+[INFO]:   133. Andrey                  Gridin                  (id48045455)
+[INFO]:   134. Semyon                  Stikhin                 (id48835873)
+[INFO]:   135. Tatyana                 Oslina                  (id50173164)
+[INFO]:   136. Tatyana                 Pervukhina              (id51042112)
+[INFO]:   137. Diana                   Arapova                 (id53153566)
+[INFO]:   138. Evgeny                  Elkin                   (id55790456)
+[INFO]:   139. Evgeny                  Alexandrov              (id57617060)
+[INFO]:   140. Polina                  Nebova                  (id58535600)
+[INFO]:   141. Maxim                   Smagin                  (id59539368)
+[INFO]:   142. Artyom                  Kuznetsov               (id60533074)
+[INFO]:   143. Anton                   Kovrizhnykh             (id60630179)
+[INFO]:   144. Andrey                  Lekomtsev               (id61116582)
+[INFO]:   145. Polina                  Amineva                 (id62604196)
+[INFO]:   146. Margarita               Nikishina               (id66100806)
+[INFO]:   147. Pavel                   Lebedev                 (id68307441)
+[INFO]:   148. Irina                   Zaets                   (id71913125)
+[INFO]:   149. Andrey                  Sevostyanov             (id79932056)
+[INFO]:   150. Nastya                  Prolomova               (id81236501)
+[INFO]:   151. Vanya                   Melentsov               (id85581725)
+[INFO]:   152. Oksana                  Grivas                  (id87457041)
+[INFO]:   153. Max                     Plevako                 (id87799322)
+[INFO]:   154. Vitaly                  Makarov                 (id89575880)
+[INFO]:   155. Andrey                  Mazur                   (id91507253)
+[INFO]:   156. Anzhelika               Yakimova                (id94275056)
+[INFO]:   157. Dmitry                  Karpenko                (id96376913)
+[INFO]:   158. DELETED                                         (id96984667)
+[INFO]:   159. Elena                   Pribavkina              (id97617291)
+[INFO]:   160. Dmitry                  Okhezin                 (id99914391)
+[INFO]:   161. Nikita                  Detkov                  (id101000366)
+[INFO]:   162. Alexey                  Isakov                  (id103189932)
+[INFO]:   163. Erik                    Basargin                (id121139084)
+[INFO]:   164. Stepan                  Ermakov                 (id127958768)
+[INFO]:   165. Fedya                   Lastnov                 (id131510017)
+[INFO]:   166. Vlad                    Kosovskikh              (id133811052)
+[INFO]:   167. DELETED                                         (id134650397)
+[INFO]:   168. Viktor                  Samun                   (id136904200)
+[INFO]:   169. Ilya                    Lavrov                  (id139165327)
+[INFO]:   170. Alexander               Veretennikov            (id152325504)
+[INFO]:   171. Oleg                    Nefyodov                (id157288743)
+[INFO]:   172. Anton                   Boyarchenkov            (id162094094)
+[INFO]:   173. Boris                   Vernikov                (id202172738)
+[INFO]:   174. Natasha                 Dolgikh                 (id217550974)
+[INFO]:   175. Semyon                  Zaydelman               (id223094205)
+[INFO]:   176. Alexander               Klepinin                (id239145350)
+[INFO]:   177. Evgeny                  Fomintsev               (id239893407)
+[INFO]:   178. Natalya                 Maslova                 (id249949620)
+[INFO]:   179. Elena                   Kalegina                (id256497435)
+[INFO]:   180. Andrey                  Sozykin                 (id284761814)
+[INFO]:   181. Mikhail                 Yudin                   (id301114424)
+[INFO]:   182. Nikita                  Markov                  (id302911792)
+[INFO]:   183. Sun                     Shuiguo                 (id328447659)
+[INFO]:   184. Luis                    Romero                  (id336727979)
+[INFO]:   185. Alexey                  Iagsoft                 (id471098140)
+[INFO]:   186. Ahmed                   Hendy                   (id483747089)
+[INFO]:   187. Maria                   Naumenova               (id487309767)
+[INFO]:   188. Huang                   Beilei                  (id509993428)
+============================================================================
+[INPUT]: Type option number (use 0 to continue): 0
+[INPUT]: Enter user id/screen name (type "exit" to quit): savelevmatvey
+=================================
+[INFO]: User ID         168714055
+[INFO]: First name      Matvey
+[INFO]: Last name       Savelyev
+=================================
+[INFO]: Enabled options:
+[INFO]: [1] Get list of friends
+[INFO]: [2] Get list of albums
+[INPUT]: Type option number (use 0 to continue): 0
+[INPUT]: Enter user id/screen name (type "exit" to quit): 1425163461211123
+[ERROR]: Code: 113
+[ERROR]: Message: Invalid user id
+[INPUT]: Enter user id/screen name (type "exit" to quit): 13
+===============================
+[INFO]: User ID         13
+[INFO]: First name      DELETED
+[INFO]: Last name       
+===============================
+[INFO]: There's no enabled options for that profile, since it is closed or have been deleted
+[INPUT]: Enter user id/screen name (type "exit" to quit): exit
